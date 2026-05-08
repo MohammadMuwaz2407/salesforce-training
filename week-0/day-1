@@ -6,6 +6,21 @@
   --->CUSTOMER 360:
 2---->C.R.M
   crm stands for customer relationship management ,
-  its like knowing in detail about our customer ,like.. about his/hers purchase history habits likes etc.to manage customers better.
-
+  its like knowing in detail about our customer ,like.. about his/hers purchase history,posts,likes, habits etc.to manage customers better.
+  * any company can provide CMR for startups and other companies but salesforce is one of the bes among them *
+3---->ACCOUNTS,CONTACTS AND OPPRTUNITIES:
+  leads :  (satrting trails of main data)
+  leads are like the indirectly useful datapoints in the overall data that we are collecting about a company 
+  (example there is a e-commerce website customers data and a random customer has made a linkedin liked a post thats completely irrelavent data but that may be far related to sales so that goes into leads)
+  Accounts :
+  we see large in fo about customers from many sides and the details collected are sorted which character from which company and so forth
+  clustering company or organizational entities from which(useful) leads are found.
+  contact : 
+  from that selected company we do not interact with every person ,the specific people that we frequently interact with fron that
+  companyies are called as a contacts each account has multiple contacts
+  people whe works for the accounts
+  Opportunities : 
+  opportunities shows the key main details from the data collected till now like:
+  revenue estimated to generate based on the contacts information,time in which we can achieve the goal of ax profit or sale according to accounts or something, 
+  position we are currently in.
   
